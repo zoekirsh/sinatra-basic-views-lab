@@ -15,7 +15,7 @@ But for now, they'll settle for just the basics.
 
 ### Step 1:
 
-In `app.rb`, you'll want to create a controller action responds to a GET request and loads `index.erb` in the browser.
+In `app.rb`, you'll want to create a controller action that responds to a GET request and loads `index.erb` in the browser.
 
 ### Step 2:
 
